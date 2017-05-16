@@ -6,7 +6,3 @@
 1234567890abcdefghijkmnopqrstuvwxyz
 1234567890abcdefghijkmnopqrstuvwxyz
 1234567890
-<<<<<<< HEAD
-=======
-
->>>>>>> 1849cffe00c2f1a5b5c8edee46cc08fe3cb3eb86
